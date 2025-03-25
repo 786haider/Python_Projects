@@ -5,9 +5,6 @@ def get_first_element(lst):
     """
 
     print(lst[0])
-
-# There is no need to edit code beyond this point
-
 def get_lst():
     """
     Prompts the user to enter one element of the list at a time and returns the resulting list.
